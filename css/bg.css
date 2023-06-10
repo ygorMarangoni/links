@@ -1,0 +1,15 @@
+@media (min-width: 435px) {
+  .cicle {
+    display: none;
+  }
+
+  footer {
+    display: none;
+  }
+}
+
+@media (max-width: 435px) {
+  .container {
+    background-image: url(/arquivos/linhas-mobile.png);
+  }
+}
